@@ -1,5 +1,5 @@
 {
-  "name": "html2jade-site",
+!*"name": "html2jade-site",
   "version": "1.0.0",
   "dependencies": {
     "body-parser": "^1.9.3",
@@ -8,3 +8,4 @@
     "jade": "^1.8.0"
   }
 }
+ 
